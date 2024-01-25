@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahul-ansary
 - 👀 I’m interested in ...frontend development
 - 🌱 I’m currently learning ...full stack web development
-- 💞️ I’m looking to collaborate on ...frondend projects
+- 💞️ I’m looking to collaborate on ...frontend projects
 - 📫 How to reach me : rahulansary38@gmail.com
 
 <!---
